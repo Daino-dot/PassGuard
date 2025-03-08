@@ -30,7 +30,7 @@ def check_password():
             messagebox.showerror("Error", "Connection to security service failed")
             return
         
-        # Buscar coincidencias
+        # Find matches
         found = False
         for line in response.text.splitlines():
             if line.split(":")[0] == suffix:
@@ -50,7 +50,7 @@ def check_password():
     except Exception as e:
         messagebox.showerror("Error", f"Connection error: {str(e)}")
 
-# Configuración de la GUI
+# GUI Settings
 root = tk.Tk()
 root.title("PassGuard v1.0")
 root.geometry("400x220")
