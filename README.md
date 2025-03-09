@@ -6,7 +6,7 @@ A suite of security utilities for ethical hacking education and penetration test
 
 Disclaimer: These tools are for educational/authorized testing only. Never use for illegal activities.
 
-https://github.com/Daino-dot
+github.com/Daino-dot
 dc   $  daino_daino
 srv  $  https://discord.gg/y92sn3EsWR
 
