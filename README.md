@@ -4,7 +4,7 @@
 ```csharp
 A suite of security utilities for ethical hacking education and penetration testing practice. Designed for cybersecurity students and professionals.
 
-**Disclaimer:** These tools are for educational/authorized testing only. Never use for illegal activities.
+Disclaimer: These tools are for educational/authorized testing only. Never use for illegal activities.
 
 https://github.com/Daino-dot
 dc   $  daino_daino
