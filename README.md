@@ -8,7 +8,7 @@ Disclaimer: These tools are for educational/authorized testing only. Never use f
 
 github.com/Daino-dot
 dc   $  daino_daino
-srv  $  https://discord.gg/y92sn3EsWR
+srv  $  discord.gg/y92sn3EsWR
 
 ## ✨ Features
 - 🔥 10B+ breach database lookup
