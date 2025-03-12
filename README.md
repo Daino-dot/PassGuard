@@ -4,13 +4,12 @@
 ```csharp
 A suite of security utilities for ethical hacking education and penetration testing practice. Designed for cybersecurity students and professionals.
 
-Disclaimer: These tools are for educational/authorized testing only. Never use for illegal activities.
 
 github.com/Daino-dot
 dc   $  daino_daino
 srv  $  discord.gg/y92sn3EsWR
 
-## ✨ Features
+✨ Features
 - 🔥 10B+ breach database lookup
 - 🔒 SHA-1 hash protection
 - 🚨 Compromise alerts with exposure counts
