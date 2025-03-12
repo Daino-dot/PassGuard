@@ -39,7 +39,7 @@ def check_password():
                     "Password Compromised!",
                     f"This password appears in {count} known data breaches.\n\n"
                     "DO NOT use it for any online service!\n\n"
-                    "Join our Discord for security tips: discord.gg/MSukhfr6k3"
+                    "Join our Discord for security tips: discord.gg/y92sn3EsWR"
                 )
                 found = True
                 break
